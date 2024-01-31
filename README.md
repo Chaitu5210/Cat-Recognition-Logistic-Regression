@@ -1,1 +1,1 @@
-# Cat_Recognition_With_Logistic_Regression
+# Cat Recognition With Logistic Regression
